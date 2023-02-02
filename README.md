@@ -1,4 +1,4 @@
-# Simple React Pagination
+# Simple Dock API DEMO
 
 > Frontend pagination example using React with Hooks
 
